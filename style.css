@@ -1,0 +1,28 @@
+html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+
+}
+input {
+    color:black;
+    background-color:aquamarine;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: azure;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    width: 350px;
+    margin-top: 80px;
+    border: 2px solid ;
+    
+
+}
